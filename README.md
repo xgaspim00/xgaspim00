@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm [Tvoje Meno alebo Nick] 👋
 
-<!--
-**xgaspim00/xgaspim00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student at **FIT BUT (VUT Brno)**. My main passion is building beautiful and responsive frontends, but thanks to my rigorous university background, I'm definitely not afraid to dive deep under the hood or jump into the backend. 
 
-Here are some ideas to get you started:
+* **The Short Story:** I spend my days polishing UI elements, but I can still debug a segmentation fault in C without crying (mostly).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technologies & Tools
+
+Here are some of the languages and tools I've worked with:
+
+* **Frontend:** HTML5, CSS3, JavaScript, TypeScript
+* **Systems & Backend:** C, Java, Python
+* **Low-Level:** Assembler
+* **Currently learning/exploring:** Advanced frontend frameworks & modern web tooling
+
+---
+
+### 🎮 Beyond the Code
+
+When I'm not staring at a code editor or terminal, you can usually find me:
+* 🏆 **Playing sports:** I love pretty much any sport, both active and passive.
+* 🕹️ **Gaming:** Competing in esports titles or relaxing with a good game.
+* ☕ **Surviving** the next exam season at FIT.
+
+---
+
+### 📫 How to reach me
+
+* 💼 LinkedIn: [Your Link Here]
+* 📧 Email: [Your Email Here]
+
+*“A pointer in C walked into a bar...”*
