@@ -1,4 +1,4 @@
-# Hi there, I'm [Tvoje Meno alebo Nick] 👋
+# Hi there, I'm Marek 👋
 
 I am a Computer Science student at **FIT BUT (VUT Brno)**. My main passion is building beautiful and responsive frontends, but thanks to my rigorous university background, I'm definitely not afraid to dive deep under the hood or jump into the backend. 
 
@@ -28,7 +28,6 @@ When I'm not staring at a code editor or terminal, you can usually find me:
 
 ### 📫 How to reach me
 
-* 💼 LinkedIn: [Your Link Here]
-* 📧 Email: [Your Email Here]
+* 📧 Email: marekgaspierik18@gmail.com
 
 *“A pointer in C walked into a bar...”*
