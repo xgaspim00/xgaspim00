@@ -21,7 +21,7 @@ I am a Computer Science student at **FIT BUT (VUT Brno)**. My main passion is bu
 ### 🎮 Beyond the Code
 
 When I'm not staring at a code editor or terminal, you can usually find me:
-* 🏆 **Playing sports:** I love pretty much any sport, both active and passive.
+* 🏆 **Sports:** I love pretty much any sport, both active and passive.
 * 🕹️ **Gaming:** Competing in esports titles or relaxing with a good game.
 * ☕ **Surviving** the next exam season at FIT.
 
